@@ -1,4 +1,4 @@
-# Data Insights through Visualization
+# Data Visualization & Exploratory Analysis
 
 This repository contains interactive data visualizations created in HTML format.
 
