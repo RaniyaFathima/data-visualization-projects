@@ -1,4 +1,4 @@
-# Data Visualization Projects
+# Data Insights through Visualization
 
 This repository contains interactive data visualizations created in HTML format.
 
